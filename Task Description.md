@@ -17,3 +17,7 @@ viii. Click to run the simulation (g).
 ix. Wait until epoch is more than 0.3 (i).
 
 x. Report the test loss value in console (h)
+
+Output:
+
+![output](https://user-images.githubusercontent.com/104999993/207629099-5605c105-23d5-4e78-aa82-721176203e55.png)
