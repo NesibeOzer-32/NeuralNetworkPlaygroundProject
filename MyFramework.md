@@ -25,4 +25,4 @@ I created NeuralNetworkPlaygroundPage. I located web elements and put related me
 Utilities
 
 I have  driver utilities, browser utilities, and configuration reader under the utilities. Utilities used to store reusable code. 
-In driver utilities, Singleton design pattern is used to set up the Web Driver. BrowserUtils contains general methods for my automation and i have sleep method in it for this project. configuration reader reads configuration.properties files.
+In driver utilities I set up the Web Driver. BrowserUtils contains general methods for my automation and I have sleep method in it for this project. configuration reader reads configuration.properties files.
