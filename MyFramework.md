@@ -2,7 +2,7 @@ My Framework
 
 My Framework is Behavior Driven Development(BDD)Cucumber Framework. 
 I used JAVA as my programming Language.
-I used MAVEN as my built automation  tool which has pom.xml(pom.xml) file that contains info about my project.
+I used MAVEN as my built automation  tool which has pom.xml file that contains info about my project.
 
 
 Resources directory - Features Package
